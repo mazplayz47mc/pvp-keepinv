@@ -5,7 +5,7 @@
 	"name": "PvP Death Drops",
 	"description": "Players keep all items on natural death. Only PvP kills drop items.",
 	"authors": [
-		"Unknown"
+		"MazPlayz47"
 	],
 	"license": "MIT",
 	"environment": "server",
